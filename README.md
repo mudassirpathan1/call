@@ -1,1 +1,1 @@
-# call
+# call and bind advanced js
